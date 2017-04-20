@@ -1,0 +1,15 @@
+george:4
+ghostrider:72
+sam:36
+zhuli:48
+batman:43
+joel:10
+gina:52
+kate:38
+goku:38
+joe:5
+amnthony:21
+anne:25
+dan:54
+gloria:43
+victor:60
